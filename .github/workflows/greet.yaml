@@ -32,5 +32,5 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         
-    - name: Cause a failure
-      run: exit 1
+    - name: Remove cause of  failure
+      run: exit 0
