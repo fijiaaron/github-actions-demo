@@ -33,4 +33,4 @@ jobs:
         echo test, and deploy your project.
         
     - name: Remove cause of  failure
-      run: exit 0
+      run: exit 1
